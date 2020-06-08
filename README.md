@@ -1,5 +1,7 @@
 # Test task for CoreML and Performance Advertising 
 
+Ссылка на все данные, скрипты и пр. - https://yadi.sk/d/xymhDoFfs6c9NA
+
 ThirtyMusic - распакованный архив в корневой папке
 extraction_to_csv - лежит в корневой папке 
 models - лежит в корневой папке 
