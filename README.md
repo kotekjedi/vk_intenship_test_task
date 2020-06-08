@@ -1,5 +1,4 @@
-# vk_intenship_test_task
-Test task for CoreML team
+# Test task for CoreML and Performance Advertising 
 
 ThirtyMusic - распакованный архив в корневой папке
 extraction_to_csv - лежит в корневой папке 
